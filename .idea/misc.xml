@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GithubProjects/BletoothConnect/app/src/main/res/drawable/btn_shape.xml" value="0.1375" />
+        <entry key="..\:/GithubProjects/BletoothConnect/app/src/main/res/layout/ble_activity.xml" value="0.1421875" />
+        <entry key="..\:/GithubProjects/BletoothConnect/app/src/main/res/layout/listitem.xml" value="0.12708333333333333" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
